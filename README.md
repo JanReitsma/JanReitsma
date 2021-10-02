@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JanReitsma
-- 👀 I’m interested in machine learning, java, python 
-- 🌱 I’m currently learning sql
+- 👀 I’m interested in Java Programming 
+- 🌱 I’m currently learning Parallel Programming in Java
 - 💞️ I’m looking to collaborate on some projects to be announced in near future
 - 📫 How to reach me ...
 
